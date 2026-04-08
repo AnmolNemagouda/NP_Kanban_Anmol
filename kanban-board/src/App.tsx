@@ -275,7 +275,7 @@ export default function App() {
             </button>
           </form>
         </div>
-//comment just to push the code to github and trigger the workflow
+
         {/* Board */}
         <DragDropContext onDragEnd={onDragEnd}>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
